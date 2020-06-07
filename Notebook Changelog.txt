@@ -1,0 +1,19 @@
+2019-05-02 (XM)
+- Fixed an issue with the Notebook "saved" status and file path when closing/reopening the Notebook
+
+2019-01-27 (XM)
+- prevents reloading the backed up content on first call
+
+2019-01-26 (XM)
+- Added file name in title (with (*) if the Notebook is not saved)
+- Better handling of save/saving status
+
+2018-08-07 (XM)
+- separate global variable for "saved?" and "Main VI Name"
+
+2018-07-26 (XM)
+- Made a lvlib
+
+2018-05-05 (XM)
+- removed tool tip for RTB (was getting in the way)
+- warns against overwriting an existing file

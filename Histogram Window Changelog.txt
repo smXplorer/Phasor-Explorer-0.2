@@ -1,0 +1,3 @@
+2019-0502 (XM)
+- Fixed Show/Hide Tool Panels menu
+- Fixed Set Style of Selected Plots & Delete Selected Plots

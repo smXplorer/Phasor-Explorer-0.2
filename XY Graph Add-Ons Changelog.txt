@@ -1,0 +1,13 @@
+2020-01-21 (XM)
+- Added Plots Metadata tag: this needs to be helped with a VI created from the VI template "XY Graph Get Plot Metadata Type.vit", which should be name after the top level VI as "top_level_VI_Graphs Metadata Type.vi" and populated with the appropriate metadata types.
+
+2019-11-26 (XM)
+- VI name & location changes
+- Added Complex Plot Formula menu item
+
+2019-04-28 (XM)
+- Added check/unckeck visible items custom items
+- Added Transpose Plot
+
+2019-04-26 (XM)
+- Added Show/Hide Tool Panels right-click menu functionality

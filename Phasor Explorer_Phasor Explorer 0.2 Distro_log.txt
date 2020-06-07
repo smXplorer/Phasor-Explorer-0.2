@@ -1,0 +1,1048 @@
+6/6/2020 7:21:25 PM
+[General]
+Project: Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\Phasor Explorer.lvproj
+Target: My Computer
+Build Specification: Phasor Explorer 0.2 Distro
+OS: Windows x64 10.0
+
+[Open Top Level VIs]
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\Phasor Explorer.vi	6/4/2020 5:47:34 PM
+
+
+[Source Files]
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Notebook\Notebook.lvlib	5/3/2019 3:56:47 PM	1.0.0.0
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Rich Text Box\Rich Text Box.lvlib	5/6/2020 10:02:49 AM	1.0.0.0
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Histograms\Histogram Window.lvlib	5/14/2019 7:44:03 PM	1.0.0.0
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\XY Graph\XY Graph Add-Ons.lvlib	1/21/2020 7:12:49 PM	1.0.0.0
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Variant\Variant to Data\Variant to Data.lvlib	7/9/2019 9:51:57 AM	1.0.0.0
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\Plot Editor\Plot Editor.lvlib	5/23/2020 11:18:46 AM	1.0.0.0
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Histograms\Histogram Window Changelog.txt	5/2/2019 5:32:02 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Notebook\Notebook.rtm	10/5/2019 1:10:18 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Notebook\Notebook Changelog.txt	5/2/2019 7:17:17 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\Test Pseudo UC.rtm	6/4/2020 8:53:03 AM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\XY Graph\Generic XY Graph Menu.rtm	11/26/2019 2:28:10 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\Plot Editor\Plot Editor Menu.rtm	11/26/2019 12:16:23 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\XY Graph\XY Graph Add-Ons Changelog.txt	1/21/2020 7:12:25 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\PhXP Settings.rtm	12/20/2018 7:23:33 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\LV Tools\Close & Abort VIs.vi	2/3/2020 2:52:36 PM	1
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\LV Tools\Is Runtime Application.vi	7/31/2017 5:58:00 PM	3
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Rich Text Box\Text Colors.ctl	7/31/2018 12:19:31 PM	6
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Rich Text Box\Text Formatting.ctl	5/9/2020 12:57:24 PM	5
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Rich Text Box\Error Style.vi	5/9/2020 12:57:14 PM	15
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Notebook\Notebook Saved Global.vi	2/24/2020 7:00:21 AM	10
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Rich Text Box\Result Style.vi	5/9/2020 12:57:16 PM	16
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Rich Text Box\Formatted Text.ctl	5/9/2020 12:57:20 PM	8
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Notebook\Notebook Action List.ctl	1/26/2019 2:46:53 PM	14
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Notebook\Notebook Action Q Element.ctl	7/26/2018 11:08:49 AM	9
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Notebook\Send Message to Notebook.vi	5/9/2020 12:57:15 PM	25
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\strings\Search and Replace Multiple Patterns.vi	2/3/2020 2:52:32 PM	2
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Error\Error to String.vi	2/3/2020 2:52:31 PM	1
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Rich Text Box\Warning Style.vi	5/9/2020 12:57:18 PM	17
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Notebook\Send Error to Notebook.vi	5/6/2020 10:02:46 AM	31
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\XY Graph\XY Graph Refnum.ctl	11/25/2019 2:24:06 PM	3
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\XY Graph\XY Graph Get Caption (or Label).vi	2/3/2020 2:52:30 PM	1
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\Compute Plot Legend Size.vi	11/25/2019 6:50:27 PM	8
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Variant\Variant to Data\Variant to I32.vi	7/9/2019 9:52:02 AM	6
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Variant\Variant to Data\Variant to [String].vi	9/15/2019 3:35:01 PM	5
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Variant\Variant to Data\Variant to [Boolean].vi	7/9/2019 9:52:01 AM	13
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Variant\Variant to Data\Variant to [EXT].vi	7/9/2019 9:52:03 AM	12
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Variant\Variant to Data\Variant to [DBL].vi	7/9/2019 9:52:02 AM	12
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Variant\Variant to Data\Variant to [SGL].vi	7/9/2019 9:52:02 AM	12
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Variant\Variant to Data\Variant to [U64].vi	7/9/2019 9:52:03 AM	12
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Variant\Variant to Data\Variant to [U32].vi	7/9/2019 9:51:58 AM	12
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Variant\Variant to Data\Variant to [U16].vi	7/9/2019 9:52:02 AM	12
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Variant\Variant to Data\Variant to [U8].vi	7/9/2019 9:52:02 AM	11
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Variant\Variant to Data\Variant to [I64].vi	7/9/2019 9:52:03 AM	10
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Variant\Variant to Data\Variant to [I32].vi	7/9/2019 9:52:01 AM	9
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Variant\Variant to Data\Variant to [I16].vi	7/9/2019 9:52:02 AM	8
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Variant\Variant to Data\Variant to [I8].vi	7/9/2019 9:52:03 AM	7
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Variant\Variant to Data\Variant to SGL.vi	7/9/2019 9:52:00 AM	8
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Variant\Variant to Data\Variant to U64.vi	7/9/2019 9:51:59 AM	5
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Variant\Variant to Data\Variant to U8.vi	7/9/2019 9:52:03 AM	4
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Variant\Variant to Data\Variant to I16.vi	7/9/2019 9:52:03 AM	4
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Variant\Variant to Data\Variant to I8.vi	7/9/2019 9:52:02 AM	3
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Variant\Variant to Data\Variant to U16.vi	7/9/2019 9:52:02 AM	3
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Variant\Variant to Data\Variant to String.vi	7/9/2019 9:52:01 AM	4
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Variant\Variant to Data\Variant to Path.vi	7/9/2019 9:51:57 AM	4
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Variant\Variant to Data\Variant to I64.vi	7/9/2019 9:52:01 AM	3
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Variant\Variant to Data\Variant to U32.vi	7/9/2019 9:52:02 AM	4
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Variant\Variant to Data\Variant to DBL.vi	7/9/2019 9:52:01 AM	3
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Variant\Variant to Data\Variant to Boolean.vi	7/9/2019 9:52:02 AM	3
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Variant\Variant to Data\Variant to Data.vi	7/19/2019 6:05:45 PM	41
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\XY Graph\XY Graph Property Tag List.ctl	1/21/2020 2:19:54 PM	8
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\XY Graph\XY Graph Get Max Legend Size.vi	2/24/2020 6:55:46 AM	23
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Error\Clear Error.vi	7/31/2017 5:57:56 PM	4
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\XY Graph\XY Graph Set Plots Metadata.vi	1/23/2020 11:29:31 AM	7
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\XY Graph\XY Graph Tool Panels Visibility.ctl	11/25/2019 2:22:05 PM	3
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\XY Graph\XY Graph Set Tool Panels Visibility.vi	11/25/2019 2:29:34 PM	6
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\LV Tools\Get Control Refnums by Names.vi	2/3/2020 2:52:30 PM	24
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\XY Graph\XY Graph Get TipStrip Refnum.vi	2/24/2020 8:27:08 AM	19
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\XY Graph\XY Graph Set TipStrip Visible.vi	11/25/2019 2:29:02 PM	12
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\XY Graph\XY Graph Set TipStrip String.vi	11/25/2019 2:28:10 PM	12
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\XY Graph\XY Graph Set Y Scales Grid Colors.vi	11/25/2019 2:30:31 PM	5
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\XY Graph\XY Graph Set X Scales Grid Colors.vi	11/25/2019 2:30:02 PM	4
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\XY Graph\XY Graph Set Max Legend Size.vi	11/25/2019 2:26:02 PM	4
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\XY Graph\XY Graph Set Plots to Preserve.vi	11/25/2019 2:26:35 PM	8
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\strings\Check for Names v2.vi	1/21/2018 5:30:55 PM	10
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\XY Graph\XY Graph Get Plot Metadata Type.vi	2/24/2020 6:53:42 AM	8
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\XY Graph\XY Graph Get Label.vi	2/24/2020 6:54:04 AM	5
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\XY Graph\XY Graph Get Plots Metadata.vi	2/24/2020 6:55:15 AM	27
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\XY Graph\XY Graph Get Tool Panels Visibility.vi	11/25/2019 2:29:20 PM	7
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\XY Graph\XY Graph Get TipStrip Visible.vi	2/3/2020 2:52:35 PM	23
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\XY Graph\XY Graph Get TipStrip String.vi	2/3/2020 2:52:34 PM	22
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\XY Graph\XY Graph Get Y Scales Grid Colors.vi	11/25/2019 2:30:18 PM	5
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\XY Graph\XY Graph Get X Scales Grid Colors.vi	11/25/2019 2:29:50 PM	4
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\XY Graph\XY Graph Get Plots to Preserve.vi	2/3/2020 2:52:31 PM	23
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\XY Graph\XY Graph Get Plot Names & Number.vi	11/25/2019 3:01:21 PM	7
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\XY Graph\XY Graph Defer Owning VI Panel Update & Hide.vi	11/25/2019 6:10:50 PM	13
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\Plot Point Style.ctl	8/7/2017 6:37:39 PM	1
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\LabVIEW Plot Interpolation.ctl	8/7/2017 6:38:19 PM	2
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\XY Graph\XY Graph Add Single Plot with Name.vi	2/24/2020 4:41:35 PM	54
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\XY Graph\XY Graph Add Multiplots with Names.vi	2/24/2020 6:42:33 AM	55
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Fits\Circle Fit\Fitted Circle Parameters.ctl	4/16/2020 10:18:33 AM	1
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Fits\Circle Fit\Fit Points to Circle.vi	4/26/2020 7:22:55 AM	8
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\Clip Plot Based on Graph Boundaries v2.vi	4/27/2019 11:35:50 AM	6
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\XY Graph\XY Graph Get Plot Info & Clip Data.vi	11/26/2019 12:13:54 PM	5
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\XY Graph\XY Graph Number of Plots.vi	11/25/2019 2:52:54 PM	4
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\Get Plot at Mouse Click (XY Graph)\Check wether Click is in Plot Area.vi	7/31/2017 5:57:57 PM	2
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\Get Plot at Mouse Click (XY Graph)\Get Plot at Mouse Click in Plot Area [AAC].vi	11/24/2019 4:41:18 PM	15
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\Get Plot at Mouse Click (XY Graph)\Get Plot at Mouse Click in Legend.vi	7/31/2017 5:57:57 PM	9
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\Get Plot at Mouse Click (XY Graph)\Get Plot at Mouse Click [AAC].vi	11/24/2019 4:41:18 PM	18
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Fits\Circle Fit\Fit Plot to Circle.vi	4/16/2020 10:24:48 AM	4
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\XY Graph\XY Graph Are Tool Panels Visible.vi	11/25/2019 2:36:01 PM	16
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\XY Graph\XY Graph Show-Hide Tool Panels.vi	11/25/2019 2:51:45 PM	19
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\XY Graph\XY Graph Get Caption.vi	2/3/2020 2:52:32 PM	7
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\XY Graph\XY Graph Show-Hide Tool Panels Event.vi	2/3/2020 2:52:35 PM	14
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\XY Graph\XY Graph Show-Hide Grid.vi	11/25/2019 2:30:38 PM	15
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\XY Graph\XY Graph Is Grid Hidden.vi	11/25/2019 1:54:07 PM	11
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\XY Graph\XY Graph Show-Hide Grid Event.vi	2/3/2020 2:52:31 PM	12
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\strings\Concacenate String Array.vi	12/14/2019 4:39:19 PM	5
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\XY Graph\Compute (f,g)(X,Y) Arrays.vi	11/26/2019 2:15:46 PM	1
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\GUI\Get 2-variable Formula String Dialog.vi	11/26/2019 2:51:24 PM	24
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\XY Graph\XY Graph Mouse Click Event Data.ctl	11/25/2019 2:42:40 PM	5
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\XY Graph\XY Graph Compute Complex Plot Formula Event.vi	11/26/2019 2:51:23 PM	21
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\GUI\Get Formula String Dialog.vi	11/26/2019 2:46:44 PM	21
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\XY Graph\XY Graph Compute Simple Plot Formula Event.vi	11/26/2019 2:38:15 PM	18
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Calc\x = y (+-epsilon) [DBL].vi	7/31/2017 5:57:53 PM	5
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Calc\Binary (Approximate) Search 1D Array (DBL).vi	2/3/2020 2:52:32 PM	45
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\XY Graph\XY Graph Add Plot to Sum.vi	11/25/2019 2:34:52 PM	5
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Buttons\Resize Button to Fit Text.vi	5/3/2019 3:23:27 PM	7
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\GUI\Resize Message String & Dialog Window.vi	5/3/2019 3:03:31 PM	11
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\GUI\Two Buttons Dialog Window.vi	6/20/2019 3:18:08 PM	30
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Arrays\Remove (Almost) Duplicates from 1D Array (DBL).vi	2/3/2020 2:52:32 PM	30
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\XY Graph\Check X Arrays Compatibility.vi	11/24/2019 5:03:00 PM	7
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\XY Graph\Axis Differences.ctl	3/24/2018 4:13:29 PM	1
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\XY Graph\Compare New Plot and Sum X Arrays.vi	11/24/2019 4:44:14 PM	5
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\XY Graph\XY Graph Get Selected Plots.vi	11/25/2019 2:40:24 PM	10
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\XY Graph\XY Graph Sum Selected Plots Event.vi	2/3/2020 2:52:31 PM	60
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\XY Graph\XY Graph Transpose Plot Event.vi	11/25/2019 7:21:16 PM	15
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\Plot Scale Labels.ctl	11/27/2017 4:47:23 PM	1
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\Get Plots Scale Indices.vi	11/28/2017 10:19:10 AM	2
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\XY Graph\XY Graph Get Plot & Scale Arrays.vi	11/26/2019 12:00:50 PM	3
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\Plot Axis Type.ctl	5/26/2018 2:34:27 PM	1
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\XY Graph\XY Graph Get Plot & Scale Strings v2.vi	11/26/2019 12:12:57 PM	9
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\XY Graph Get Plot & Scale Strings.vi	11/26/2019 12:12:39 PM	9
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Arrays\Signed Array Index.vi	2/3/2020 2:52:34 PM	5
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Arrays\(Signed) Index 1D Array [String].vi	4/25/2018 9:30:21 AM	4
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\XY Graph\XY Graph Decode Plot Columns Header.vi	11/26/2019 12:17:14 PM	8
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Files\ASCII File Header Definition.ctl	11/27/2017 2:22:55 PM	2
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\XY Graph\XY Graph Load Plot(s) from ASCII File.vi	11/26/2019 12:11:56 PM	12
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\XY Graph\XY Graph Get Plot Number.vi	2/3/2020 2:52:30 PM	1
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\XY Graph\XY Graph Plot ASCII File Format Dialog.vi	11/25/2019 2:49:12 PM	18
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\strings\Plural s.vi	11/25/2019 1:40:50 PM	2
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\XY Graph\XY Graph Get Scale Labels.vi	11/25/2019 2:41:09 PM	6
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\XY Graph\XY Graph Load Plot(s) Event.vi	1/21/2020 5:16:17 PM	53
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\strings\Remove n final characters.vi	11/21/2017 11:27:56 AM	3
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\XY Graph\XY Graph Compare X Array.vi	11/25/2019 6:10:25 PM	1
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\XY Graph\XY Graph Save Selected Plots Event.vi	11/25/2019 7:24:10 PM	58
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\XY Graph\XY Graph Save Plot.vi	11/25/2019 2:49:49 PM	31
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\XY Graph\XY Graph Save Plot Event.vi	2/3/2020 2:52:30 PM	37
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\XY Graph\XY Graph Plot Properties.ctl	12/1/2018 3:00:32 PM	4
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\Plot Update Steps.ctl	7/31/2017 5:57:57 PM	1
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\XY Graph\XY Graph Delete Plot.vi	2/24/2020 6:58:15 AM	31
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Arrays\Array Delta [I32].vi	2/3/2020 2:52:30 PM	7
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Arrays\Check Index Ramp.vi	11/29/2018 3:33:48 PM	4
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\XY Graph\XY Graph Delete Successive Plots.vi	1/21/2020 2:27:38 PM	31
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Arrays\Slice Index Array in Contiguous Chunks.vi	4/25/2018 9:28:24 AM	5
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Arrays\Linear Ramp [I32].vi	6/4/2015 2:30:52 PM	3
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\XY Graph\XY Graph Clear Event.vi	11/29/2019 3:55:15 PM	52
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\Get Multiplot Action Message.vi	11/25/2019 2:39:22 PM	5
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\XY Graph\XY Graph Delete Selected Plots Event.vi	2/3/2020 2:52:30 PM	49
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\XY Graph\XY Graph Delete Plot Event.vi	2/3/2020 2:52:32 PM	39
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\XY Graph\XY Graph Graph Axes Chooser Dialog.vi	11/25/2019 6:10:54 PM	35
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\Plot Style Settings Step.ctl	11/22/2017 11:09:18 AM	1
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\Single Plot Style 2.ctl	5/7/2018 5:48:42 PM	12
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\XY Graph\XY Graph Set Plot Style.vi	11/25/2019 1:59:57 PM	11
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\Plot Style Selector\Get-Set Color Array.vi	5/13/2018 5:43:13 PM	11
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\Get Color List Element.vi	5/13/2018 4:00:48 PM	4
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\Plot Style 3.ctl	5/13/2018 5:06:20 PM	17
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\Get Single Plot Style.vi	4/18/2019 4:14:01 PM	3
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\XY Graph\XY Graph Set Style of Selected Plots.vi	2/3/2020 2:52:31 PM	51
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\Edit Color List Dialog.vi	5/23/2018 5:20:53 PM	7
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\Plot Style Selector\Point or Line Color List.vi	5/13/2018 6:08:12 PM	1
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\Set Waveform Graph Plot Style.vi	5/7/2018 5:34:55 PM	4
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\Color Chooser Update.vi	5/23/2018 4:52:59 PM	1
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\Plot Style Chooser Dialog.vi	4/18/2019 2:35:55 PM	28
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Time\High Resolution Timing.vi	2/3/2020 2:52:30 PM	9
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\XY Graph\XY Graph Invert Plots Selection Event.vi	11/25/2019 7:22:31 PM	38
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\XY Graph\XY Graph Select All Plots Event.vi	11/25/2019 7:22:31 PM	35
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\strings\String Match Format.vi	3/25/2019 4:13:44 PM	2
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\Get Plot Name Format String.vi	11/25/2019 2:39:48 PM	20
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\XY Graph\XY Graph Select Plots... Event.vi	11/25/2019 6:10:53 PM	44
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\LV Tools\Run Vi.vi	9/16/2019 11:28:50 AM	17
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Notebook\Get Notebook Queue.vi	2/3/2020 2:52:31 PM	15
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Histograms\Data Statistics.ctl	4/16/2019 4:19:15 PM	4
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Histograms\Send Data Statistics to Notebook.vi	4/16/2019 4:19:14 PM	19
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\GUI\Dialog Window with Option.vi	5/17/2019 9:38:03 AM	15
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Calc\Conditional Add 1.llb\Conditional Add 1 [I32].vi	7/21/2017 2:35:26 PM	3
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Arrays\Array Statistics.ctl	7/31/2017 5:57:52 PM	2
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Histograms\Histogram Bin Position.ctl	7/31/2017 5:57:53 PM	1
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Calc\Double Histogram (G) v2.vi	4/3/2019 9:32:36 AM	52
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Rich Text Box\Message Style.vi	5/9/2020 12:57:17 PM	15
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Notebook\Export XY Graph Image to Notebook.vi	2/3/2020 2:52:34 PM	37
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Notebook\Send XY Graph to Notebook (Optional).vi	5/4/2019 12:15:08 PM	14
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Fits\Decode Fit Parameter Names & Values.vi	7/9/2019 2:27:04 PM	9
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Fits\Get Fit Parameter Names, Values & Uncertainties.vi	7/9/2019 2:31:55 PM	9
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Fits\ACF-CCF\2D ACF\2D Gaussian ACF & 2D Gaussian ACF + Flow Fit Results.ctl	4/2/2018 3:25:50 PM	11
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Fits\ACF-CCF\3D ACF\3D Gaussian + Blinking ACF Fit Results.ctl	5/31/2018 7:24:07 PM	10
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Fits\ACF-CCF\3D ACF\3D Gaussian ACF Fit Results.ctl	5/31/2018 7:23:24 PM	9
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Fits\ACF-CCF\2D ACF\2D Gaussian + Flow ACF Fit Results.ctl	4/2/2018 4:55:08 PM	9
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Fits\ACF-CCF\2D ACF\2D Gaussian + Blinking ACF Fit Results.ctl	7/31/2017 5:57:53 PM	8
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Fits\ACF-CCF\2D ACF\2D Gaussian ACF Fit Results.ctl	7/31/2017 5:57:53 PM	7
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Fits\Double Exponential\Double Exponential Fit Parameters v2.ctl	7/31/2017 5:57:53 PM	6
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Fits\Single Exponential\Single Exponential Fit Parameters v2.ctl	7/31/2017 5:57:53 PM	3
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Fits\Asymmetric Gaussian\Asymmetric Gaussian Fit Results v2.ctl	7/31/2017 5:57:53 PM	4
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Fits\Two Connected Asymmetric Gaussians\Two H-Connected Asymmetric Gaussians Fit Parameters.ctl	7/31/2017 5:57:53 PM	3
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Fits\Two Connected Asymmetric Gaussians\Two T-Connected Asymmetric Gaussians Fit Parameters.ctl	7/31/2017 5:57:53 PM	4
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Fits\Gaussian\Gaussian Fit Results v2.ctl	7/31/2017 5:57:53 PM	6
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Fits\Two Connected Gaussians\Two T-Connected Gaussians Fit Parameters.ctl	7/31/2017 5:57:53 PM	6
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Fits\Two Connected Gaussians\Two H-Connected Gaussians Fit Parameters.ctl	7/31/2017 5:57:53 PM	5
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Fits\Lorentzian-Gaussian\Lorentzian-Gaussian Fit Results v2.ctl	7/31/2017 5:57:53 PM	5
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Fits\Gaussian-Lorentzian\Gaussian-Lorentzian Fit Results v2.ctl	7/31/2017 5:57:53 PM	4
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Fits\Asymmetric Lorentzian\Asymmetric Lorentzian Fit Results v2.ctl	7/31/2017 5:57:53 PM	3
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Fits\Lorentzian\Lorentzian Fit Results v2.ctl	7/31/2017 5:57:53 PM	5
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Fits\Fit Models.ctl	2/3/2020 2:52:36 PM	10
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Fits\Get Fit Results String.vi	2/3/2020 2:52:34 PM	14
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Calc\Ramp Type.ctl	7/31/2017 5:57:53 PM	2
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Fits\Compute Fit Curve v4.vi	2/3/2020 2:52:31 PM	46
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Fits\Format Sum of Asymmetric Gaussians Fit Parameters.vi	2/3/2020 2:52:30 PM	2
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Fits\Format Sum of Gaussians Fit Parameters.vi	7/31/2017 5:57:53 PM	3
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\ALiX\D-Only Fixed Parameters.ctl	7/31/2017 5:57:52 PM	3
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Fits\Format Fit Output.vi	2/3/2020 2:52:36 PM	30
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Fits\Fit Algorithm.ctl	4/2/2018 2:37:04 PM	1
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Fits\Get Fit Plot Name.vi	2/3/2020 2:52:31 PM	5
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Error\Get Best Case Error.vi	2/3/2020 2:52:34 PM	1
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Fits\Non-linear Fit Status Data.ctl	12/18/2017 5:34:05 PM	5
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Fits\Get-Set NLLM Fit Status.vi	12/18/2017 5:34:29 PM	9
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Fits\Abort Fit Global.vi	11/22/2017 4:35:31 PM	1
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Fits\My Fit Stopping Criteria.ctl	1/16/2019 10:03:08 AM	1
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Fits\My Check Fit Convergence.vi	9/24/2019 7:33:42 AM	8
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Fits\Fit Statistics.ctl	12/16/2017 5:19:34 PM	1
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Fits\My Nonlinear Curve Fit TRDL bounds.vi	1/23/2019 5:34:36 PM	4
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Fits\My Nonlinear Curve Fit LM bounds.vi	9/24/2019 6:59:00 AM	33
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Fits\Double Exponential\Double Exponential Guess Parameters.vi	7/31/2017 5:57:53 PM	3
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Fits\N Gaussians Fit Guess Parameters.vi	7/31/2017 5:57:53 PM	9
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Fits\N Asymmetric Gaussians Fit Guess Parameters.vi	4/3/2019 9:14:09 AM	7
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Fits\Two Asymmetric Gaussians\Two Asymmetric Gaussians Fit Guess Parameters.vi	7/31/2017 5:57:53 PM	6
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Fits\Two Gaussians\Two Gaussians Fit Guess Parameters.vi	7/31/2017 5:57:53 PM	6
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Fits\N Components Additional Fit Settings.ctl	4/3/2018 1:18:41 PM	5
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Fits\Compute Guess Fit Parameters.vi	2/3/2020 2:52:30 PM	34
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Fits\Compute Fit Weights.vi	2/3/2020 2:52:35 PM	3
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Arrays\Filter Histogram Values.vi	4/27/2019 11:19:21 AM	6
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Calc\Approximate Comparison Operators\[X] = X0 [DBL].vi	6/30/2018 12:49:47 PM	5
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\Order Plot Axis.vi	4/25/2018 9:40:32 AM	2
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Fits\Get Histogram Fit Axis v2.vi	4/3/2019 9:12:22 AM	6
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Fits\Fit Settings.ctl	4/3/2019 9:12:22 AM	3
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Fits\Fit Plot Request Information.ctl	7/31/2017 5:57:53 PM	1
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Fits\Fit Model to Plot Core.vi	2/3/2020 2:52:32 PM	31
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Fits\ACF-CCF\2D ACF\LM 2D Gaussian ACF + Flow and gradient (Global).vi	7/9/2019 2:26:58 PM	4
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Fits\ACF-CCF\3D ACF\LM 3D Gaussian + Blinking ACF and gradient.vi	7/31/2017 5:57:53 PM	22
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Fits\ACF-CCF\3D ACF\LM 3D Gaussian ACF and gradient.vi	7/31/2017 5:57:53 PM	23
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Fits\ACF-CCF\2D ACF\LM 2D Gaussian + Flow ACF and gradient.vi	4/2/2018 5:30:02 PM	23
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Fits\ACF-CCF\2D ACF\LM 2D Gaussian + Blinking ACF and gradient.vi	7/31/2017 5:57:53 PM	21
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Fits\ACF-CCF\2D ACF\LM 2D Gaussian ACF and gradient.vi	7/31/2017 5:57:53 PM	21
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Fits\Double Exponential\LM Double Exponential and gradient.vi	7/31/2017 5:57:53 PM	4
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Fits\Single Exponential\LM Single Exponential and gradient.vi	1/7/2018 7:22:09 PM	6
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Fits\Three Asymmetric Gaussians\LM Three Asymmetric Gaussians and gradient.vi	7/31/2017 5:57:53 PM	11
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Fits\Three Gaussians\LM Three Gaussians and gradient.vi	7/31/2017 5:57:53 PM	11
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Fits\Two Connected Gaussians\LM Two T-Connected Gaussians and gradient.vi	7/31/2017 5:57:53 PM	15
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Fits\Two Connected Gaussians\LM Two H-Connected Gaussians and gradient.vi	7/31/2017 5:57:53 PM	15
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Fits\Two Connected Asymmetric Gaussians\LM Two T-Connected Asymmetric Gaussians and gradient.vi	7/31/2017 5:57:53 PM	16
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Fits\Two Connected Asymmetric Gaussians\LM Two H-Connected Asymmetric Gaussians and gradient.vi	7/31/2017 5:57:53 PM	16
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Fits\Two Asymmetric Gaussians\LM Two Asymmetric Gaussians and gradient.vi	7/31/2017 5:57:53 PM	10
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Fits\Two Gaussians\LM Two Gaussians and gradient.vi	7/31/2017 5:57:53 PM	8
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Fits\Lorentzian-Gaussian\LM Lorentzian-Gaussian and gradient.vi	7/31/2017 5:57:53 PM	7
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Fits\Gaussian-Lorentzian\LM Gaussian-Lorentzian and gradient.vi	7/31/2017 5:57:53 PM	5
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Fits\Asymmetric Lorentzian\LM Asymmetric Lorentzian and gradient.vi	7/31/2017 5:57:53 PM	4
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Fits\Lorentzian\LM Lorentzian and gradient.vi	7/31/2017 5:57:53 PM	2
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Fits\Asymmetric Gaussian\LM Asymmetric Gaussian and gradient.vi	7/31/2017 5:57:53 PM	3
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Fits\Gaussian\LM Gaussian and gradient.vi	7/31/2017 5:57:53 PM	3
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Fits\Get Cursor Positions.vi	2/3/2020 2:52:36 PM	1
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Fits\Get Fit Settings.vi	2/3/2020 2:52:30 PM	41
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Fits\Fit Model to Plot v3.vi	2/3/2020 2:52:35 PM	41
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Histograms\Get-Set Histogram Fit Parameters.vi	2/3/2020 2:52:32 PM	4
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\Plot Editor\Plot Editor Internal Variables.ctl	5/5/2020 12:16:29 PM	8
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\Plot Editor\Plot Editor_Store to Controls.vi	5/5/2020 11:15:14 AM	4
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Arrays\Remove NaN-containing Pairs.vi	4/6/2018 3:22:34 PM	1
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Arrays\Determine Clicked Array Element Index\SubVIs\Determine Clicked Array Element Index - Cancel Error Code 1320.vi	2/3/2020 2:52:32 PM	0
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Arrays\Determine Clicked Array Element Index\SubVIs\Determine Clicked Array Element Index - Test For Error Code 1320.vi	2/3/2020 2:52:34 PM	0
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Arrays\Determine Clicked Array Element Index\SubVIs\Determine Clicked Array Element Index - Determine if Item Clicked.vi	2/3/2020 2:52:32 PM	0
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Arrays\Determine Clicked Array Element Index\SubVIs\Determine Clicked Array Element Index - Calculate Scrollbar Edges.vi	2/3/2020 2:52:30 PM	0
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Arrays\Determine Clicked Array Element Index\SubVIs\Determine Clicked Array Element Index - Determine Index Values (1D or 2D Array).vi	2/3/2020 2:52:34 PM	0
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Arrays\Determine Clicked Array Element Index\SubVIs\Determine Clicked Array Element Index - Test For Array Element Gap.vi	2/3/2020 2:52:32 PM	0
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Arrays\Determine Clicked Array Element Index\SubVIs\Determine Clicked Array Element Index - Calculate Gapped and Un-Gapped Coordinates.vi	2/3/2020 2:52:30 PM	0
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Arrays\Determine Clicked Array Element Index\SubVIs\Determine Clicked Array Element Index - Determine Array Element Coordinates.vi	2/3/2020 2:52:34 PM	0
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Arrays\Determine Clicked Array Element Index\SubVIs\Determine Clicked Array Element Index - Get Minimal Array Properties.vi	2/3/2020 2:52:31 PM	0
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Arrays\Determine Clicked Array Element Index\SubVIs\Determine Clicked Array Element Index - Determine Array and Scrollbar Properties.vi	4/25/2020 12:22:22 AM	2
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Arrays\Determine Clicked Array Element Index\Determine Clicked Array Element Index.vi	2/3/2020 2:52:32 PM	2
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\Plot Editor\Plot Editor_Store to Plot.vi	5/5/2020 11:22:36 AM	1
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\Plot Editor\Plot Editor_Data to Store.vi	5/5/2020 2:15:50 PM	5
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\Plot Editor\Plot Editor_Data to Controls & Plot.vi	5/5/2020 4:04:40 PM	3
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\Plot Editor\Plot Editor_Remove out-of-bound Plot Values.vi	5/5/2020 4:07:29 PM	7
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\Plot Editor\Plot Editor_Plot to Data & Controls.vi	5/5/2020 4:07:09 PM	5
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\XY Graph\XY Graph Get-Set Plot Style.vi	11/26/2019 9:32:34 AM	9
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\XY Graph\XY Graph Update Plot & Style.vi	11/26/2019 9:34:32 AM	2
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\Restore X & Scale Indices.vi	11/24/2019 5:03:00 PM	3
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\Plot Editor\Plot Editor_Controls to Store.vi	5/5/2020 11:15:14 AM	3
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\Plot Editor\Plot Editor_Store to Plot Style.vi	5/5/2020 11:31:59 AM	1
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\XY Graph\XY Graph Init.vi	1/21/2020 2:54:14 PM	33
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\GUI\Append Suffix to VI Name.vi	5/23/2020 11:18:31 AM	11
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\XY Graph\XY Plot Data.ctl	7/31/2017 5:57:57 PM	1
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\XY Graph\XY Graph Get Plot Data & Info.vi	5/23/2020 9:03:15 AM	13
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\Plot Editor\Plot Editor Q [Event] List.ctl	5/5/2020 12:16:30 PM	17
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\Plot Editor\Plot Editor Q [Element].ctl	5/5/2020 12:16:27 PM	8
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\Plot Editor\Plot Editor.vi	5/23/2020 12:20:40 PM	139
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\Plot Editor\Plot Editor Asynchronous Call.vi	5/5/2020 11:15:14 AM	25
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Histograms\Set Graph Legend.vi	2/24/2020 8:37:05 AM	18
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\ALiX\Invert Histogram.vi	3/1/2019 3:57:23 PM	7
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Histograms\Bin Size Dialog.vi	3/9/2019 4:39:54 PM	15
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Histograms\Rebin Histogram with Dialog.vi	3/9/2019 4:40:02 PM	7
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\GUI\Constrain Object into Pane.vi	2/3/2020 2:52:31 PM	2
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\Tipstrip\XY Graph TipStrip Mouse Move.vi	2/24/2020 8:41:57 AM	31
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\Tipstrip\XY Graph Tipstrip Mouse Leave.vi	2/3/2020 2:52:34 PM	8
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\Tipstrip\XY Graph Tipstrip Mouse Enter.vi	2/3/2020 2:52:32 PM	9
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\XY Graph\XY Graph Click Location.ctl	12/3/2019 10:17:13 AM	1
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\XY Graph\XY Graph Check-Uncheck Menu Items.vi	2/3/2020 2:52:30 PM	6
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\Tipstrip\XY Graph TipStrip Event Registration.vi	11/25/2019 2:20:13 PM	13
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Histograms\Plot Histogram.ctl	5/14/2019 10:32:20 AM	7
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\ALiX\Updated Plot Info.ctl	5/14/2019 10:31:59 AM	4
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Histograms\Histogram Window Q Action v2.ctl	5/22/2019 10:10:12 AM	15
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Histograms\Histogram Window Q Element v2.ctl	3/1/2019 3:57:22 PM	7
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Histograms\Histogram Window.vi	5/9/2020 3:22:42 PM	140
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Histograms\Histogram Bin Size Definition Dialog.vi	3/12/2019 5:54:13 PM	20
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Histograms\Build XY Plot Histogram (Core).vi	2/24/2020 8:36:04 AM	6
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Fits\String to Fit Model.vi	2/3/2020 2:52:34 PM	3
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\XY Graph\XY Graph Special Event Handler Core.vi	2/3/2020 2:52:32 PM	38
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\XY Graph\XY Graph Event.ctl	4/2/2019 4:35:47 PM	2
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\XY Graph\XY Graph Special Event Handler Wrapper.vi	2/3/2020 2:52:31 PM	13
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\Phasor Calculation Type.ctl	11/15/2018 11:18:11 AM	2
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\Gate Type.ctl	11/27/2019 2:38:38 PM	8
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\Gate Definitions.ctl	4/20/2020 10:57:02 AM	17
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\IRF Model.ctl	2/6/2020 3:53:51 PM	1
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\Decay Definiton.ctl	2/24/2020 5:42:00 AM	11
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\Data for Pseudo UC Intersections.ctl	3/15/2020 12:40:40 PM	3
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\Lifetime at UC Intersection (standard).vi	3/15/2020 12:40:40 PM	4
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\Lifetime at UC Intersection (discrete).vi	3/15/2020 12:40:40 PM	6
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\Lifetime at UC Intersection (gated).vi	3/15/2020 12:40:40 PM	10
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\zeta_f(tau)_Analytical.vi	3/1/2020 12:30:20 PM	20
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\O(tau,tau_0,t_0)_Analytical.vi	3/1/2020 12:32:20 PM	34
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\z_N[Lambda_0,T,W]_Analytical.vi	5/28/2020 2:26:04 PM	12
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\z_N[Lambda_tau,T,W,t_0]_Analytical.vi	3/1/2020 2:34:45 PM	68
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\z_N[Psi_tau,tau_0,T,W,t_0]_Analytical.vi	3/1/2020 2:35:07 PM	65
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\z[Lambda_tau,T,W,t_0]_Analytical.vi	3/1/2020 12:10:47 PM	23
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\Phasor Rotation due to Offset.vi	2/28/2020 6:52:15 PM	4
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\z_N[Lambda_tau,T,t_0]_Analytical.vi	3/1/2020 12:16:28 PM	29
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\f_p,L(y).vi	12/18/2018 12:13:30 PM	6
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\Photon-Counting Saturation Parameters.ctl	10/25/2018 11:24:46 AM	1
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\Compute Saturated Gate Image Array.vi	12/18/2018 12:13:39 PM	7
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Math\1D Quadrature (VI)\Lobatto Weights (4&7 order).vi	3/15/2020 9:31:50 AM	3
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Math\1D Quadrature (VI)\Eval Function at Sampling Points (VI).vi	3/15/2020 9:27:11 AM	4
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Math\1D Quadrature (VI)\Chop One Bin (VI).vi	3/13/2020 4:09:33 PM	3
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Math\1D Quadrature (VI)\Chop Integration Bins (VI).vi	3/13/2020 4:08:48 PM	1
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Math\1D Quadrature (VI)\Lobatto Quadrature Core (VI).vi	3/13/2020 4:08:13 PM	2
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Math\1D Quadrature (VI)\1D Quadrature (VI).vi	3/13/2020 4:07:44 PM	3
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\T-Periodic Finite Edge Tilted Top Square Gate.vi	5/28/2020 4:47:45 PM	12
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\T-Periodic Finite Edge Square Gate.vi	5/28/2020 4:47:14 PM	20
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\T-Periodic Sawtooth Gate.vi	5/27/2020 9:40:38 PM	11
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\T-Periodic Triangle Gate.vi	5/28/2020 4:45:58 PM	9
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\T-Periodic Square Gate.vi	5/28/2020 4:46:46 PM	9
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\User-defined Gate function.vi	2/7/2020 10:08:55 AM	9
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\Gate & Decay Parameters.ctl	4/20/2020 10:58:44 AM	9
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\1D Quadrature Integrand for Gated Decay.vi	5/29/2020 7:51:12 AM	39
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Error\Error Code to Error Cluster.vi	5/19/2019 3:26:52 PM	7
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\Dirac Integrand for Gated Decay.vi	5/29/2020 7:49:17 AM	36
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\SEPXP Globals.vi	3/21/2020 6:04:42 PM	2
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Arrays\Linear Ramp End Options.ctl	9/17/2018 8:07:10 AM	3
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\Compute 1-Exp Gate Array v2.vi	5/29/2020 7:58:31 AM	109
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\Check Gate Calculation Type.vi	5/26/2020 9:57:03 PM	5
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\Compute Gated Pseudo-Phasor.vi	3/15/2020 12:40:40 PM	52
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\f(tau) [Pseudo UC Intersections].vi	3/15/2020 12:40:40 PM	2
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\User-defined Gate.vi	11/24/2019 5:22:25 PM	1
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\Phasor Explorer Detector Parameters.ctl	1/12/2020 1:46:22 PM	18
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\Phasor Explorer Gate Parameters.ctl	4/20/2020 9:50:32 AM	35
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\Phasor Explorer Decay Parameters.ctl	6/4/2020 5:14:19 PM	22
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\Phasor Type.ctl	6/4/2020 4:58:34 PM	4
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\Phasor Explorer Phasor Parameters.ctl	6/4/2020 4:59:18 PM	31
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\Type of Series.ctl	2/6/2020 2:33:43 PM	4
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\Phasor Explorer Display Parameters.ctl	12/12/2018 2:04:48 PM	20
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\Pseudo Phasor Parameters.ctl	6/4/2020 5:19:58 PM	20
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\Convert Decay & Gates Parameters.vi	6/4/2020 5:19:58 PM	25
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\Convert Pseudo Phasor Parameters.vi	6/4/2020 5:19:58 PM	16
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\Plot f(tau).vi	6/4/2020 5:19:58 PM	10
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Calc\Compute Linear Coefficients.vi	10/2/2018 12:48:36 PM	3
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\Compute f(tau) & Zeros.vi	6/4/2020 5:19:58 PM	20
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\Phasor Explorer Settings List.ctl	2/6/2020 4:01:25 PM	7
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\PhXP Settings Storage.vi	6/4/2020 5:19:58 PM	10
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\Get PhXP Parameters.vi	6/4/2020 5:19:58 PM	8
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\Compute f(tau) & Zeros Wrapper.vi	2/24/2020 8:31:51 AM	10
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Buttons\Show Animated Busy Icon with Message.vi	2/24/2020 8:40:25 AM	20
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\Phasor (g, s).ctl	10/2/2018 6:31:49 PM	3
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\Get Phasor Ratio.vi	7/3/2018 3:13:02 PM	8
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\Convert (g,s,f) to (tf, tm).vi	2/3/2020 2:52:34 PM	6
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\Convert Phasor Array to g & s Arrays.vi	5/30/2018 8:03:51 PM	2
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\Find Intersections of Fitted Line with Universal Circle.vi	10/3/2018 10:17:02 AM	12
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\Convert g & s Arrays to Phasor Array.vi	10/2/2018 6:06:37 PM	3
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\Calibrate Pseudo-Phasor.vi	4/19/2020 1:18:27 PM	8
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Arrays\Linear Ramp by Number (CDB).vi	10/3/2018 10:00:27 AM	11
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\Compute Square-Gated Discrete Calibration Phasor & jw.vi	4/19/2020 9:06:07 AM	8
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\Compute Discrete Calibration Phasor & jw.vi	4/19/2020 8:47:15 AM	5
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\Convert (tau, f) to (jw, z).vi	2/23/2020 6:01:02 PM	9
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\Compute Calibration Phasor & jw.vi	4/19/2020 8:54:52 AM	5
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\Compute alpha(beta) Plot.vi	6/4/2020 5:19:58 PM	67
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\Compute alpha(beta) Plot Wrapper.vi	2/24/2020 8:30:25 AM	10
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Buttons\Hide Animated Busy Icon.vi	2/24/2020 8:35:08 AM	7
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\strings\String Contains Quote(s).vi	5/18/2020 4:48:09 PM	2
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\strings\Convert Cluster INI String.vi	5/18/2020 5:07:11 PM	10
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Variant\Variant to Formatted String.vi	5/18/2020 5:07:45 PM	8
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\Export Parameters to Clipboard Wrapper.vi	12/21/2018 11:01:52 AM	9
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Buttons\Show Animated Busy Icon.vi	2/24/2020 8:40:49 AM	9
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\Update Identity Plot (P-Ph-tau Graph).vi	4/19/2020 5:30:48 PM	3
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\Phasor UC_N[W] Parameters.ctl	1/21/2020 11:03:15 AM	2
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\Compute tau_phi & tau_m from Phasor (Continuous, Gated).vi	3/1/2020 2:54:57 PM	7
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\Compute tau_phi & tau_m from Phasor (Discrete, Ungated).vi	3/1/2020 2:55:58 PM	13
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\tau_phi & tau_m Zero Finder Parameters.ctl	12/18/2018 12:15:01 PM	1
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\Find Unique Zero.vi	12/12/2018 1:15:00 PM	7
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\Zero Finder tau (Discrete, Gated Phasor).vi	4/19/2020 1:12:14 PM	16
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\Compute tau_phi & tau_m from Phasor (Discrete, Gated).vi	1/22/2020 2:36:15 PM	19
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\Compute tau_phi & tau_m from Phasor.vi	4/19/2020 11:34:12 AM	20
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\Compute Pseudo-Phase Lifetime Plot.vi	6/4/2020 5:19:57 PM	73
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\Compute Pseudo-Phase Lifetime Plot Wrapper.vi	2/24/2020 8:32:58 AM	10
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Time\Get CPU String.vi	2/14/2020 4:52:04 PM	3
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\Clean up Phasor Parameters String.vi	2/7/2020 2:55:36 PM	6
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\Square Gated 1-Exp Parameters.ctl	1/21/2019 5:54:35 PM	1
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\Find Root of f_W,T,D(x) = 0.vi	1/21/2019 6:21:58 PM	2
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\1-Exp Decay Parameters from Gated Decay.vi	11/19/2019 12:08:49 PM	14
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\Compute 1-Exp Gate Array.vi	3/15/2020 12:40:40 PM	10
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\Gate Analysis Results.ctl	1/22/2019 10:43:05 AM	2
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\Decay & Gates Options.ctl	12/1/2018 1:30:51 PM	3
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\Compute Decay & Time Gates.vi	5/27/2020 9:42:15 PM	69
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\Compute Decay & Time Gates Wrapper.vi	2/24/2020 8:31:24 AM	19
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\SEPXP Phasor Plot Info.ctl	6/4/2020 5:19:57 PM	5
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\Cursor Info.ctl	11/15/2018 3:59:28 PM	2
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\Get tau_i, tau_phi, tau_m at Cursor.vi	6/4/2020 5:19:58 PM	20
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\Compute Sum of Gates Plot.vi	6/4/2020 5:19:57 PM	55
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\Compute Sum of Gates Plot Wrapper.vi	2/24/2020 8:33:16 AM	6
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\Send PhXP Phasor Plot Info to Notebook.vi	1/19/2020 11:04:56 AM	4
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\LV Tools\Get Control Refnum and Tab by Name.vi	5/16/2020 5:02:02 PM	24
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Buttons\Hide Animated Busy Icon with Message and Abort Button.vi	5/29/2019 5:07:29 PM	22
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\Add Ticks to PUC.vi	5/28/2020 11:56:49 AM	4
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\Get UC tick taus.vi	5/25/2020 10:19:43 AM	1
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\Phasor Calibration Data.ctl	12/18/2018 12:17:36 PM	2
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\Compute Calibrated Phasor Array.vi	5/26/2020 10:15:45 PM	24
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\Compute Pseudo USC v2.vi	6/4/2020 5:19:58 PM	89
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\Compute Pseudo UC Wrapper.vi	3/14/2020 12:03:13 PM	22
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Buttons\Show Animated Busy Icon with Message and Abort Button.vi	5/29/2019 3:52:29 PM	20
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\XY Graph\XY Graph Set Plot Metdata.vi	5/24/2020 11:23:24 PM	56
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\XY Graph\XY Graph Update Plot.vi	5/26/2020 11:01:59 AM	5
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\strings\Current Date & Time String.vi	2/3/2020 2:52:30 PM	2
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Notebook\Send Start-Stop Message.vi	7/9/2019 9:48:21 AM	3
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\SEPXP Update UC Lifetimes.vi	6/4/2020 5:19:58 PM	11
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\Compute UC Tau Tick (g, s) & (dg, ds).vi	5/25/2020 4:40:41 PM	4
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\Universal Semicircle Plot.vi	5/27/2020 7:36:10 AM	16
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\Get Harmonic Frequency.vi	6/4/2020 5:19:58 PM	6
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\Init PhXP Settings.vi	6/4/2020 5:19:57 PM	5
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\strings\Parse Path String.vi	3/13/2020 12:08:42 PM	5
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Files\Create File on Error.vi	2/3/2020 3:07:37 PM	2
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Files\Backup File or Folder.vi	3/20/2019 3:27:27 PM	4
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Arrays\First Array Element\First Array Element [String].vi	7/31/2017 5:57:52 PM	7
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\Save-Load PhXP Settings.vi	6/3/2020 10:16:43 PM	8
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\SEPXP Set Graph Properties.vi	2/3/2020 2:52:31 PM	12
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\About Phasor Explorer.vi	6/3/2020 9:39:50 PM	51
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\Update Gate Parameters Visibility.vi	6/4/2020 6:32:35 PM	16
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\Update Decay & IRF Parameters Visibility & Caption.vi	2/23/2020 5:30:23 PM	1
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\Control Label to PhXP Settings Element.vi	12/21/2018 1:14:57 PM	2
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\Update PhXP Settings Storage.vi	2/3/2020 2:57:06 PM	3
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\SEPXP Gate Parameter to Adjust.ctl	11/29/2018 10:15:24 AM	1
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\Update Gate Step & Number.vi	4/19/2020 2:09:52 PM	2
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\Update Phasor Calibration Options Visibility.vi	6/4/2020 5:19:57 PM	6
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\Update PhXP Parameters.vi	6/4/2020 5:19:57 PM	43
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\SEPXP Q [Event] List.ctl	5/24/2020 3:37:31 PM	17
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\SEPXP Q [Element].ctl	1/11/2020 12:48:33 PM	8
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\PhXP Queue.vi	5/27/2020 7:03:14 AM	3
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\Refresh PhXP Settings.vi	6/4/2020 5:19:57 PM	43
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\Phasor Explorer Settings Window.vi	6/4/2020 6:31:58 PM	71
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Notebook\Notebook Main VI Name.vi	8/7/2018 10:09:07 AM	6
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Notebook\Load Rich Text Notebook.vi	1/27/2019 12:13:20 PM	17
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Notebook\Save Notebook Before Opening One.vi	6/20/2019 6:10:08 PM	6
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Notebook\Build Window Title.vi	1/26/2019 2:12:36 PM	3
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Notebook\Save Notebook Rich Text Box.vi	6/20/2019 6:10:08 PM	16
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Rich Text Box\Set New Selection to End.vi	7/31/2018 12:19:31 PM	5
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Rich Text Box\Append Image to Rich Text Box.vi	1/26/2019 2:32:25 PM	18
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Rich Text Box\Set RTB Selection Text Alignmentvi.vi	7/31/2018 12:19:34 PM	6
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Rich Text Box\Set RTB Selection Font Size.vi	7/31/2018 12:19:33 PM	7
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Rich Text Box\Text Style.ctl	7/31/2018 12:19:32 PM	6
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Rich Text Box\Set RTB Selection Text Style.vi	7/31/2018 12:19:33 PM	6
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Rich Text Box\Set RTB Selection Font.vi	7/31/2018 12:19:33 PM	8
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Rich Text Box\Set RTB Selection Text Background Color.vi	7/31/2018 12:19:31 PM	9
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Rich Text Box\Set RTB Selection Text Color.vi	7/31/2018 12:19:34 PM	6
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Rich Text Box\Append Text to Rich Text Box.vi	5/9/2020 12:57:19 PM	17
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Notebook\Init Notebook Rich Text Box.vi	1/26/2019 3:46:46 PM	12
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Notebook\Notebook Content Storage.vi	1/26/2019 3:53:01 PM	10
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Notebook\Close Notebook Window Action.vi	5/3/2019 3:25:40 PM	25
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Notebook\Notebook.vi	5/19/2020 9:35:51 AM	144
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\XY Graph\XY Graph Menu Items.ctl	1/17/2020 12:47:07 PM	6
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\XY Graph\Is XY Graph Special Event.vi	4/3/2019 8:39:25 AM	3
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\SEPXP Tipstrip Event Registration Refnums.ctl	1/11/2020 12:49:33 PM	2
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\SEPXP [Event Registration Refnum] to Cluster.vi	2/3/2020 2:52:34 PM	1
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\Tipstrip\XY Graph Multiple TipStrip Event Registration.vi	2/3/2020 2:52:32 PM	2
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\PhXP Internal Variables.ctl	1/21/2020 6:56:41 PM	7
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Phasor\Phasor Explorer.vi	6/4/2020 5:47:34 PM	222
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Notebook\Export Intensity Graph Image to Notebook.vi	2/14/2020 4:52:07 PM	34
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Notebook\Delete Notebook Backup on Quit.vi	2/22/2019 3:59:23 PM	7
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Notebook\Send Intensity Graph to Notebook (Optional).vi	5/4/2019 12:13:35 PM	13
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Histograms\Plot Histogram Call Parameters.ctl	11/24/2019 5:04:31 PM	5
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Histograms\Create XY Plot Histogram.vi	11/24/2019 5:04:31 PM	78
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Rich Text Box\Verbose Style.vi	5/9/2020 12:57:17 PM	16
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\XY Graph\XY Graph NXG with TipStrip.vi	11/25/2019 2:42:16 PM	17
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\XY Graph\XY Graph NXG.vi	7/11/2019 11:05:40 AM	13
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\XY Graph\XY Graph White.vi	4/26/2019 4:18:38 PM	6
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Variant\Variant to Data\Variant to EXT.vi	7/9/2019 9:52:03 AM	4
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\Plot Editor\Plot Editor Data Array.ctl	5/23/2020 11:18:48 AM	2
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Arrays\Define Ramp Array Dialog.vi	4/4/2018 3:25:58 PM	16
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\XY Graph\XY Graph Data.ctl	11/25/2019 2:23:18 PM	5
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\XY Graph\XY Graph Get Plot Metadata Type.vit	1/21/2020 7:11:30 PM	3
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\XY Graph\XY Graph New Plot Name Data.ctl	11/25/2019 2:43:40 PM	3
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\XY Graph\XY Graph Check New Plot Name.vi	11/25/2019 6:10:00 PM	8
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\XY Graph\XY Graph Set Plot Name Event.vi	11/25/2019 7:24:28 PM	5
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\Test XY Graph with TipStrip.vi	1/11/2020 1:27:06 PM	23
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\Graphs\Plot Style Selector\Load-Save Color Lists.vi	5/30/2018 11:18:47 AM	2
+
+[Output Files]
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Phasor Explorer.vi	6/6/2020 7:22:50 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Notebook.lvlib	6/6/2020 7:22:19 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Rich Text Box.lvlib	6/6/2020 7:22:19 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Histogram Window.lvlib	6/6/2020 7:22:19 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Histogram Window Changelog.txt	5/2/2019 5:32:02 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Build Window Title.vi	6/6/2020 7:22:47 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Close Notebook Window Action.vi	6/6/2020 7:22:47 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Export Intensity Graph Image to Notebook.vi	6/6/2020 7:22:49 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Export XY Graph Image to Notebook.vi	6/6/2020 7:22:28 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Init Notebook Rich Text Box.vi	6/6/2020 7:22:47 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Load Rich Text Notebook.vi	6/6/2020 7:22:47 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Notebook Content Storage.vi	6/6/2020 7:22:47 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Notebook.rtm	10/5/2019 1:10:18 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Save Notebook Before Opening One.vi	6/6/2020 7:22:47 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Save Notebook Rich Text Box.vi	6/6/2020 7:22:47 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Delete Notebook Backup on Quit.vi	6/6/2020 7:22:49 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Get Notebook Queue.vi	6/6/2020 7:22:28 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Notebook Action List.ctl	6/6/2020 7:22:19 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Notebook Action Q Element.ctl	6/6/2020 7:22:19 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Notebook Changelog.txt	5/2/2019 7:17:17 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Notebook Main VI Name.vi	6/6/2020 7:22:47 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Notebook Saved Global.vi	6/6/2020 7:22:19 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Notebook.vi	6/6/2020 7:22:49 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Send Error to Notebook.vi	6/6/2020 7:22:19 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Send Intensity Graph to Notebook (Optional).vi	6/6/2020 7:22:49 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Send Message to Notebook.vi	6/6/2020 7:22:19 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Send Start-Stop Message.vi	6/6/2020 7:22:45 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Send XY Graph to Notebook (Optional).vi	6/6/2020 7:22:28 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Invert Histogram.vi	6/6/2020 7:22:35 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Rebin Histogram with Dialog.vi	6/6/2020 7:22:35 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Set Graph Legend.vi	6/6/2020 7:22:35 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Build XY Plot Histogram (Core).vi	6/6/2020 7:22:36 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Create XY Plot Histogram.vi	6/6/2020 7:22:49 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Data Statistics.ctl	6/6/2020 7:22:28 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Get-Set Histogram Fit Parameters.vi	6/6/2020 7:22:33 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Histogram Bin Size Definition Dialog.vi	6/6/2020 7:22:36 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Histogram Window Q Action v2.ctl	6/6/2020 7:22:35 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Histogram Window Q Element v2.ctl	6/6/2020 7:22:35 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Histogram Window.vi	6/6/2020 7:22:35 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Plot Histogram Call Parameters.ctl	6/6/2020 7:22:49 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Plot Histogram.ctl	6/6/2020 7:22:35 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Updated Plot Info.ctl	6/6/2020 7:22:35 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Append Image to Rich Text Box.vi	6/6/2020 7:22:47 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Append Text to Rich Text Box.vi	6/6/2020 7:22:47 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Formatted Text.ctl	6/6/2020 7:22:19 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Set New Selection to End.vi	6/6/2020 7:22:47 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Set RTB Selection Font Size.vi	6/6/2020 7:22:47 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Set RTB Selection Font.vi	6/6/2020 7:22:47 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Set RTB Selection Text Alignmentvi.vi	6/6/2020 7:22:47 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Set RTB Selection Text Background Color.vi	6/6/2020 7:22:47 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Set RTB Selection Text Color.vi	6/6/2020 7:22:47 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Set RTB Selection Text Style.vi	6/6/2020 7:22:47 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Text Colors.ctl	6/6/2020 7:22:19 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Text Formatting.ctl	6/6/2020 7:22:19 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Text Style.ctl	6/6/2020 7:22:47 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Error Style.vi	6/6/2020 7:22:19 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Message Style.vi	6/6/2020 7:22:28 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Result Style.vi	6/6/2020 7:22:19 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Verbose Style.vi	6/6/2020 7:22:49 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Warning Style.vi	6/6/2020 7:22:19 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Test Pseudo UC.rtm	6/4/2020 8:53:03 AM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Decay & Gates Options.ctl	6/6/2020 7:22:43 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\SEPXP Phasor Plot Info.ctl	6/6/2020 7:22:43 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Pseudo Phasor Parameters.ctl	6/6/2020 7:22:41 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Phasor Explorer Display Parameters.ctl	6/6/2020 7:22:41 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Type of Series.ctl	6/6/2020 7:22:41 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Phasor Explorer Phasor Parameters.ctl	6/6/2020 7:22:41 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Phasor Calculation Type.ctl	6/6/2020 7:22:36 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Phasor Type.ctl	6/6/2020 7:22:41 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Phasor Explorer Decay Parameters.ctl	6/6/2020 7:22:41 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\IRF Model.ctl	6/6/2020 7:22:36 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Phasor Explorer Gate Parameters.ctl	6/6/2020 7:22:41 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Gate Type.ctl	6/6/2020 7:22:36 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Phasor Explorer Detector Parameters.ctl	6/6/2020 7:22:41 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\SEPXP Q [Element].ctl	6/6/2020 7:22:47 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\SEPXP Q [Event] List.ctl	6/6/2020 7:22:47 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\PhXP Internal Variables.ctl	6/6/2020 7:22:48 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\XY Plot Data.ctl	6/6/2020 7:22:35 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\XY Graph Plot Properties.ctl	6/6/2020 7:22:26 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Cursor Info.ctl	6/6/2020 7:22:43 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Linear Ramp End Options.ctl	6/6/2020 7:22:38 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\SEPXP Globals.vi	6/6/2020 7:22:38 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\PhXP Queue.vi	6/6/2020 7:22:47 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\XY Graph Multiple TipStrip Event Registration.vi	6/6/2020 7:22:48 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\XY Graph Refnum.ctl	6/6/2020 7:22:19 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\XY Graph Add-Ons.lvlib	6/6/2020 7:22:19 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\XY Graph NXG with TipStrip.vi	6/6/2020 7:22:49 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\XY Graph Init.vi	6/6/2020 7:22:34 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\XY Graph Tool Panels Visibility.ctl	6/6/2020 7:22:20 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\XY Graph Property Tag List.ctl	6/6/2020 7:22:20 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\XY Graph Set Max Legend Size.vi	6/6/2020 7:22:21 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Compute Plot Legend Size.vi	6/6/2020 7:22:19 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\XY Graph Set Plots to Preserve.vi	6/6/2020 7:22:21 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\XY Graph Set TipStrip String.vi	6/6/2020 7:22:20 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\XY Graph Get TipStrip Refnum.vi	6/6/2020 7:22:20 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Get Control Refnums by Names.vi	6/6/2020 7:22:20 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\XY Graph Set TipStrip Visible.vi	6/6/2020 7:22:20 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\XY Graph Are Tool Panels Visible.vi	6/6/2020 7:22:23 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\XY Graph Set Tool Panels Visibility.vi	6/6/2020 7:22:20 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\XY Graph Set Plots Metadata.vi	6/6/2020 7:22:20 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\XY Graph TipStrip Event Registration.vi	6/6/2020 7:22:35 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\XY Graph Tipstrip Mouse Enter.vi	6/6/2020 7:22:35 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\XY Graph TipStrip Mouse Move.vi	6/6/2020 7:22:35 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Get Plot at Mouse Click [AAC].vi	6/6/2020 7:22:22 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Get Plot at Mouse Click in Legend.vi	6/6/2020 7:22:22 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Get Plot at Mouse Click in Plot Area [AAC].vi	6/6/2020 7:22:22 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Check wether Click is in Plot Area.vi	6/6/2020 7:22:22 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\XY Graph Number of Plots.vi	6/6/2020 7:22:22 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Constrain Object into Pane.vi	6/6/2020 7:22:35 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\XY Graph Tipstrip Mouse Leave.vi	6/6/2020 7:22:35 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\XY Graph NXG.vi	6/6/2020 7:22:49 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\XY Graph White.vi	6/6/2020 7:22:49 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Generic XY Graph Menu.rtm	11/26/2019 2:28:10 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Compute (f,g)(X,Y) Arrays.vi	6/6/2020 7:22:23 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Concacenate String Array.vi	6/6/2020 7:22:23 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\XY Graph Clear Event.vi	6/6/2020 7:22:27 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Linear Ramp [I32].vi	6/6/2020 7:22:27 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\XY Graph Get Plots to Preserve.vi	6/6/2020 7:22:22 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Variant to [I32].vi	6/6/2020 7:22:20 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Variant to Data.lvlib	6/6/2020 7:22:19 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Variant to [Boolean].vi	6/6/2020 7:22:19 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Variant to [DBL].vi	6/6/2020 7:22:19 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Variant to [EXT].vi	6/6/2020 7:22:19 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Variant to [I8].vi	6/6/2020 7:22:20 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Variant to [I16].vi	6/6/2020 7:22:20 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Variant to [I64].vi	6/6/2020 7:22:20 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Variant to [SGL].vi	6/6/2020 7:22:19 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Variant to [String].vi	6/6/2020 7:22:19 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Variant to [U8].vi	6/6/2020 7:22:20 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Variant to [U16].vi	6/6/2020 7:22:20 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Variant to [U32].vi	6/6/2020 7:22:19 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Variant to [U64].vi	6/6/2020 7:22:19 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Variant to Boolean.vi	6/6/2020 7:22:20 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Variant to DBL.vi	6/6/2020 7:22:20 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Variant to EXT.vi	6/6/2020 7:22:49 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Variant to I8.vi	6/6/2020 7:22:20 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Variant to I16.vi	6/6/2020 7:22:20 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Variant to I32.vi	6/6/2020 7:22:19 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Variant to I64.vi	6/6/2020 7:22:20 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Variant to Path.vi	6/6/2020 7:22:20 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Variant to SGL.vi	6/6/2020 7:22:20 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Variant to String.vi	6/6/2020 7:22:20 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Variant to U8.vi	6/6/2020 7:22:20 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Variant to U16.vi	6/6/2020 7:22:20 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Variant to U32.vi	6/6/2020 7:22:20 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Variant to U64.vi	6/6/2020 7:22:20 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Slice Index Array in Contiguous Chunks.vi	6/6/2020 7:22:27 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Array Delta [I32].vi	6/6/2020 7:22:26 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\XY Graph Delete Successive Plots.vi	6/6/2020 7:22:26 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Plot Update Steps.ctl	6/6/2020 7:22:26 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Check Index Ramp.vi	6/6/2020 7:22:26 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\XY Graph Get Plots Metadata.vi	6/6/2020 7:22:21 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\XY Graph Get Label.vi	6/6/2020 7:22:21 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Clear Error.vi	6/6/2020 7:22:20 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\XY Graph Get Plot Metadata Type.vi	6/6/2020 7:22:21 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\XY Graph Defer Owning VI Panel Update & Hide.vi	6/6/2020 7:22:22 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\XY Graph Get Max Legend Size.vi	6/6/2020 7:22:20 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\XY Graph Delete Plot.vi	6/6/2020 7:22:26 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\XY Graph Get Caption (or Label).vi	6/6/2020 7:22:19 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\XY Graph Compute Complex Plot Formula Event.vi	6/6/2020 7:22:23 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\XY Graph Mouse Click Event Data.ctl	6/6/2020 7:22:23 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Get 2-variable Formula String Dialog.vi	6/6/2020 7:22:23 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\XY Graph Add Single Plot with Name.vi	6/6/2020 7:22:22 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\LabVIEW Plot Interpolation.ctl	6/6/2020 7:22:22 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Plot Point Style.ctl	6/6/2020 7:22:22 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\XY Graph Get Plot Names & Number.vi	6/6/2020 7:22:22 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Check for Names v2.vi	6/6/2020 7:22:21 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\XY Graph Compute Simple Plot Formula Event.vi	6/6/2020 7:22:24 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Get Formula String Dialog.vi	6/6/2020 7:22:23 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\XY Graph Delete Plot Event.vi	6/6/2020 7:22:27 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\XY Graph Delete Selected Plots Event.vi	6/6/2020 7:22:27 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\XY Graph Get Selected Plots.vi	6/6/2020 7:22:25 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Get Multiplot Action Message.vi	6/6/2020 7:22:27 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\XY Graph Graph Axes Chooser Dialog.vi	6/6/2020 7:22:27 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\XY Graph Invert Plots Selection Event.vi	6/6/2020 7:22:27 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\High Resolution Timing.vi	6/6/2020 7:22:27 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\XY Graph Is Grid Hidden.vi	6/6/2020 7:22:23 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\XY Graph Load Plot(s) Event.vi	6/6/2020 7:22:26 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\ASCII File Header Definition.ctl	6/6/2020 7:22:25 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\XY Graph Get Scale Labels.vi	6/6/2020 7:22:25 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Plural s.vi	6/6/2020 7:22:25 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\XY Graph Plot ASCII File Format Dialog.vi	6/6/2020 7:22:25 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\XY Graph Get Plot Number.vi	6/6/2020 7:22:25 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\XY Graph Load Plot(s) from ASCII File.vi	6/6/2020 7:22:25 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Plot Scale Labels.ctl	6/6/2020 7:22:25 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\XY Graph Decode Plot Columns Header.vi	6/6/2020 7:22:25 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Plot Axis Type.ctl	6/6/2020 7:22:25 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\(Signed) Index 1D Array [String].vi	6/6/2020 7:22:25 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Signed Array Index.vi	6/6/2020 7:22:25 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\XY Graph Get Plot & Scale Strings.vi	6/6/2020 7:22:25 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\XY Graph Get Plot & Scale Strings v2.vi	6/6/2020 7:22:25 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\XY Graph Get Plot & Scale Arrays.vi	6/6/2020 7:22:25 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Get Plots Scale Indices.vi	6/6/2020 7:22:25 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\XY Graph Add Multiplots with Names.vi	6/6/2020 7:22:22 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\XY Graph Save Plot Event.vi	6/6/2020 7:22:26 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\XY Graph Save Plot.vi	6/6/2020 7:22:26 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Two Buttons Dialog Window.vi	6/6/2020 7:22:25 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Resize Message String & Dialog Window.vi	6/6/2020 7:22:25 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Resize Button to Fit Text.vi	6/6/2020 7:22:24 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\XY Graph Save Selected Plots Event.vi	6/6/2020 7:22:26 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\XY Graph Compare X Array.vi	6/6/2020 7:22:26 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Remove n final characters.vi	6/6/2020 7:22:26 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\XY Graph Select All Plots Event.vi	6/6/2020 7:22:28 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\XY Graph Select Plots... Event.vi	6/6/2020 7:22:28 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Get Plot Name Format String.vi	6/6/2020 7:22:28 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\String Match Format.vi	6/6/2020 7:22:28 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\XY Graph Set Plot Style.vi	6/6/2020 7:22:27 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Single Plot Style 2.ctl	6/6/2020 7:22:27 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Plot Style Settings Step.ctl	6/6/2020 7:22:27 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\XY Graph Set Style of Selected Plots.vi	6/6/2020 7:22:27 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Plot Style 3.ctl	6/6/2020 7:22:27 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Get Single Plot Style.vi	6/6/2020 7:22:27 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Get Color List Element.vi	6/6/2020 7:22:27 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Get-Set Color Array.vi	6/6/2020 7:22:27 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\XY Graph Show-Hide Grid Event.vi	6/6/2020 7:22:23 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\XY Graph Get Caption.vi	6/6/2020 7:22:23 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\XY Graph Show-Hide Grid.vi	6/6/2020 7:22:23 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\XY Graph Set X Scales Grid Colors.vi	6/6/2020 7:22:21 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\XY Graph Set Y Scales Grid Colors.vi	6/6/2020 7:22:20 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\XY Graph Get X Scales Grid Colors.vi	6/6/2020 7:22:22 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\XY Graph Get Y Scales Grid Colors.vi	6/6/2020 7:22:21 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\XY Graph Show-Hide Tool Panels Event.vi	6/6/2020 7:22:23 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\XY Graph Show-Hide Tool Panels.vi	6/6/2020 7:22:23 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\XY Graph Get Tool Panels Visibility.vi	6/6/2020 7:22:21 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\XY Graph Special Event Handler Core.vi	6/6/2020 7:22:36 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Fit Plot Request Information.ctl	6/6/2020 7:22:31 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Fit Models.ctl	6/6/2020 7:22:29 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\String to Fit Model.vi	6/6/2020 7:22:36 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Plot Editor Asynchronous Call.vi	6/6/2020 7:22:35 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Plot Editor.lvlib	6/6/2020 7:22:19 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Plot Editor Data Array.ctl	6/6/2020 7:22:49 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Plot Editor Internal Variables.ctl	6/6/2020 7:22:33 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Plot Editor Q [Element].ctl	6/6/2020 7:22:35 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Plot Editor Q [Event] List.ctl	6/6/2020 7:22:35 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Plot Editor_Controls to Store.vi	6/6/2020 7:22:34 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Plot Editor_Data to Controls & Plot.vi	6/6/2020 7:22:34 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Plot Editor_Data to Store.vi	6/6/2020 7:22:34 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Plot Editor_Store to Controls.vi	6/6/2020 7:22:33 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Plot Editor_Store to Plot.vi	6/6/2020 7:22:34 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Plot Editor_Plot to Data & Controls.vi	6/6/2020 7:22:34 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Plot Editor_Remove out-of-bound Plot Values.vi	6/6/2020 7:22:34 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Plot Editor_Store to Plot Style.vi	6/6/2020 7:22:34 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\XY Graph Get-Set Plot Style.vi	6/6/2020 7:22:34 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Plot Editor Menu.rtm	11/26/2019 12:16:23 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Plot Editor.vi	6/6/2020 7:22:49 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Define Ramp Array Dialog.vi	6/6/2020 7:22:49 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\XY Graph Get Plot Data & Info.vi	6/6/2020 7:22:35 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Append Suffix to VI Name.vi	6/6/2020 7:22:35 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Restore X & Scale Indices.vi	6/6/2020 7:22:34 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\XY Graph Update Plot & Style.vi	6/6/2020 7:22:34 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Determine Clicked Array Element Index.vi	6/6/2020 7:22:34 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Determine Clicked Array Element Index - Determine Array and Scrollbar Properties.vi	6/6/2020 7:22:34 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Determine Clicked Array Element Index - Get Minimal Array Properties.vi	6/6/2020 7:22:34 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Determine Clicked Array Element Index - Determine Array Element Coordinates.vi	6/6/2020 7:22:33 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Determine Clicked Array Element Index - Calculate Gapped and Un-Gapped Coordinates.vi	6/6/2020 7:22:33 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Determine Clicked Array Element Index - Test For Array Element Gap.vi	6/6/2020 7:22:33 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Determine Clicked Array Element Index - Determine Index Values (1D or 2D Array).vi	6/6/2020 7:22:33 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Determine Clicked Array Element Index - Calculate Scrollbar Edges.vi	6/6/2020 7:22:33 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Determine Clicked Array Element Index - Determine if Item Clicked.vi	6/6/2020 7:22:33 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Determine Clicked Array Element Index - Test For Error Code 1320.vi	6/6/2020 7:22:33 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Determine Clicked Array Element Index - Cancel Error Code 1320.vi	6/6/2020 7:22:33 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Remove NaN-containing Pairs.vi	6/6/2020 7:22:33 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Fit Settings.ctl	6/6/2020 7:22:31 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Ramp Type.ctl	6/6/2020 7:22:29 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\XY Graph Check-Uncheck Menu Items.vi	6/6/2020 7:22:35 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\XY Graph Click Location.ctl	6/6/2020 7:22:35 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Bin Size Dialog.vi	6/6/2020 7:22:35 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\D-Only Fixed Parameters.ctl	6/6/2020 7:22:30 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Fit Model to Plot v3.vi	6/6/2020 7:22:33 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Histogram Bin Position.ctl	6/6/2020 7:22:28 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Get Fit Settings.vi	6/6/2020 7:22:32 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\N Components Additional Fit Settings.ctl	6/6/2020 7:22:31 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Get Cursor Positions.vi	6/6/2020 7:22:32 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\LM Gaussian and gradient.vi	6/6/2020 7:22:32 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\LM Asymmetric Gaussian and gradient.vi	6/6/2020 7:22:32 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\LM Lorentzian and gradient.vi	6/6/2020 7:22:32 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\LM Asymmetric Lorentzian and gradient.vi	6/6/2020 7:22:32 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\LM Gaussian-Lorentzian and gradient.vi	6/6/2020 7:22:32 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\LM Lorentzian-Gaussian and gradient.vi	6/6/2020 7:22:32 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\LM Two Gaussians and gradient.vi	6/6/2020 7:22:32 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\LM Two Asymmetric Gaussians and gradient.vi	6/6/2020 7:22:32 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\LM Two H-Connected Asymmetric Gaussians and gradient.vi	6/6/2020 7:22:32 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\LM Two T-Connected Asymmetric Gaussians and gradient.vi	6/6/2020 7:22:32 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\LM Two H-Connected Gaussians and gradient.vi	6/6/2020 7:22:32 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\LM Two T-Connected Gaussians and gradient.vi	6/6/2020 7:22:32 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\LM Three Gaussians and gradient.vi	6/6/2020 7:22:32 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\LM Three Asymmetric Gaussians and gradient.vi	6/6/2020 7:22:32 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\LM Single Exponential and gradient.vi	6/6/2020 7:22:32 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\LM Double Exponential and gradient.vi	6/6/2020 7:22:31 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\LM 2D Gaussian ACF and gradient.vi	6/6/2020 7:22:31 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\LM 2D Gaussian + Blinking ACF and gradient.vi	6/6/2020 7:22:31 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\LM 2D Gaussian + Flow ACF and gradient.vi	6/6/2020 7:22:31 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\LM 3D Gaussian ACF and gradient.vi	6/6/2020 7:22:31 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\LM 3D Gaussian + Blinking ACF and gradient.vi	6/6/2020 7:22:31 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\LM 2D Gaussian ACF + Flow and gradient (Global).vi	6/6/2020 7:22:31 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Fit Model to Plot Core.vi	6/6/2020 7:22:31 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Fit Algorithm.ctl	6/6/2020 7:22:30 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\XY Graph Get Plot Info & Clip Data.vi	6/6/2020 7:22:22 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Clip Plot Based on Graph Boundaries v2.vi	6/6/2020 7:22:22 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Get Histogram Fit Axis v2.vi	6/6/2020 7:22:31 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Order Plot Axis.vi	6/6/2020 7:22:31 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\[X] = X0 [DBL].vi	6/6/2020 7:22:31 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Filter Histogram Values.vi	6/6/2020 7:22:31 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Compute Fit Weights.vi	6/6/2020 7:22:31 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Compute Guess Fit Parameters.vi	6/6/2020 7:22:31 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Two Gaussians Fit Guess Parameters.vi	6/6/2020 7:22:31 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Two Asymmetric Gaussians Fit Guess Parameters.vi	6/6/2020 7:22:31 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\N Asymmetric Gaussians Fit Guess Parameters.vi	6/6/2020 7:22:30 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\N Gaussians Fit Guess Parameters.vi	6/6/2020 7:22:30 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Double Exponential Guess Parameters.vi	6/6/2020 7:22:30 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\My Nonlinear Curve Fit LM bounds.vi	6/6/2020 7:22:30 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Fit Statistics.ctl	6/6/2020 7:22:30 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\My Fit Stopping Criteria.ctl	6/6/2020 7:22:30 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\My Check Fit Convergence.vi	6/6/2020 7:22:30 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Abort Fit Global.vi	6/6/2020 7:22:30 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Get-Set NLLM Fit Status.vi	6/6/2020 7:22:30 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Non-linear Fit Status Data.ctl	6/6/2020 7:22:30 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\My Nonlinear Curve Fit TRDL bounds.vi	6/6/2020 7:22:30 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Get Best Case Error.vi	6/6/2020 7:22:30 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Get Fit Plot Name.vi	6/6/2020 7:22:30 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Format Fit Output.vi	6/6/2020 7:22:30 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Gaussian Fit Results v2.ctl	6/6/2020 7:22:29 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Asymmetric Gaussian Fit Results v2.ctl	6/6/2020 7:22:29 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Lorentzian Fit Results v2.ctl	6/6/2020 7:22:29 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Asymmetric Lorentzian Fit Results v2.ctl	6/6/2020 7:22:29 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Gaussian-Lorentzian Fit Results v2.ctl	6/6/2020 7:22:29 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Lorentzian-Gaussian Fit Results v2.ctl	6/6/2020 7:22:29 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Two H-Connected Gaussians Fit Parameters.ctl	6/6/2020 7:22:29 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Two T-Connected Gaussians Fit Parameters.ctl	6/6/2020 7:22:29 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Two H-Connected Asymmetric Gaussians Fit Parameters.ctl	6/6/2020 7:22:29 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Two T-Connected Asymmetric Gaussians Fit Parameters.ctl	6/6/2020 7:22:29 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Single Exponential Fit Parameters v2.ctl	6/6/2020 7:22:29 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Double Exponential Fit Parameters v2.ctl	6/6/2020 7:22:29 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\2D Gaussian ACF Fit Results.ctl	6/6/2020 7:22:29 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\2D Gaussian + Blinking ACF Fit Results.ctl	6/6/2020 7:22:29 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\2D Gaussian + Flow ACF Fit Results.ctl	6/6/2020 7:22:29 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\3D Gaussian ACF Fit Results.ctl	6/6/2020 7:22:29 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\3D Gaussian + Blinking ACF Fit Results.ctl	6/6/2020 7:22:29 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\2D Gaussian ACF & 2D Gaussian ACF + Flow Fit Results.ctl	6/6/2020 7:22:29 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Format Sum of Gaussians Fit Parameters.vi	6/6/2020 7:22:30 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Format Sum of Asymmetric Gaussians Fit Parameters.vi	6/6/2020 7:22:29 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Compute Fit Curve v4.vi	6/6/2020 7:22:29 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Get Fit Results String.vi	6/6/2020 7:22:29 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Get Fit Parameter Names, Values & Uncertainties.vi	6/6/2020 7:22:28 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Decode Fit Parameter Names & Values.vi	6/6/2020 7:22:28 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Variant to Data.vi	6/6/2020 7:22:20 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Plot Style Chooser Dialog.vi	6/6/2020 7:22:27 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Color Chooser Update.vi	6/6/2020 7:22:27 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Set Waveform Graph Plot Style.vi	6/6/2020 7:22:27 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Point or Line Color List.vi	6/6/2020 7:22:27 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Edit Color List Dialog.vi	6/6/2020 7:22:27 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Double Histogram (G) v2.vi	6/6/2020 7:22:28 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Array Statistics.ctl	6/6/2020 7:22:28 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Conditional Add 1 [I32].vi	6/6/2020 7:22:28 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Dialog Window with Option.vi	6/6/2020 7:22:28 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Send Data Statistics to Notebook.vi	6/6/2020 7:22:28 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Run Vi.vi	6/6/2020 7:22:28 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\XY Graph Transpose Plot Event.vi	6/6/2020 7:22:25 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\XY Graph Sum Selected Plots Event.vi	6/6/2020 7:22:25 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Compare New Plot and Sum X Arrays.vi	6/6/2020 7:22:25 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Axis Differences.ctl	6/6/2020 7:22:25 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Check X Arrays Compatibility.vi	6/6/2020 7:22:25 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Remove (Almost) Duplicates from 1D Array (DBL).vi	6/6/2020 7:22:25 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Binary (Approximate) Search 1D Array (DBL).vi	6/6/2020 7:22:24 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\x = y (+-epsilon) [DBL].vi	6/6/2020 7:22:24 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\XY Graph Add Plot to Sum.vi	6/6/2020 7:22:24 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\XY Graph Special Event Handler Wrapper.vi	6/6/2020 7:22:36 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\XY Graph Event.ctl	6/6/2020 7:22:36 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\XY Graph Data.ctl	6/6/2020 7:22:49 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\XY Graph Get TipStrip String.vi	6/6/2020 7:22:21 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\XY Graph Get TipStrip Visible.vi	6/6/2020 7:22:21 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\XY Graph Get Plot Metadata Type.vit	6/6/2020 7:22:49 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\XY Graph New Plot Name Data.ctl	6/6/2020 7:22:49 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\XY Graph Set Plot Name Event.vi	6/6/2020 7:22:49 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\XY Graph Check New Plot Name.vi	6/6/2020 7:22:49 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Test XY Graph with TipStrip.vi	6/6/2020 7:22:49 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\XY Graph Add-Ons Changelog.txt	1/21/2020 7:12:25 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\SEPXP [Event Registration Refnum] to Cluster.vi	6/6/2020 7:22:48 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\SEPXP Tipstrip Event Registration Refnums.ctl	6/6/2020 7:22:48 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Is XY Graph Special Event.vi	6/6/2020 7:22:48 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\XY Graph Menu Items.ctl	6/6/2020 7:22:48 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Current Date & Time String.vi	6/6/2020 7:22:45 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Phasor Explorer Settings Window.vi	6/6/2020 7:22:49 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\PhXP Settings.rtm	12/20/2018 7:23:33 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\SEPXP Gate Parameter to Adjust.ctl	6/6/2020 7:22:46 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Refresh PhXP Settings.vi	6/6/2020 7:22:47 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Control Label to PhXP Settings Element.vi	6/6/2020 7:22:46 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Phasor Explorer Settings List.ctl	6/6/2020 7:22:41 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\PhXP Settings Storage.vi	6/6/2020 7:22:41 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Update PhXP Parameters.vi	6/6/2020 7:22:46 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Update Phasor Calibration Options Visibility.vi	6/6/2020 7:22:46 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Update Gate Step & Number.vi	6/6/2020 7:22:46 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Update PhXP Settings Storage.vi	6/6/2020 7:22:46 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Update Decay & IRF Parameters Visibility & Caption.vi	6/6/2020 7:22:46 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Update Gate Parameters Visibility.vi	6/6/2020 7:22:46 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\About Phasor Explorer.vi	6/6/2020 7:22:46 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\SEPXP Set Graph Properties.vi	6/6/2020 7:22:46 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Save-Load PhXP Settings.vi	6/6/2020 7:22:45 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\First Array Element [String].vi	6/6/2020 7:22:45 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Backup File or Folder.vi	6/6/2020 7:22:45 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Create File on Error.vi	6/6/2020 7:22:45 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Parse Path String.vi	6/6/2020 7:22:45 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Init PhXP Settings.vi	6/6/2020 7:22:45 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Load-Save Color Lists.vi	6/6/2020 7:22:49 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Get Harmonic Frequency.vi	6/6/2020 7:22:45 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Universal Semicircle Plot.vi	6/6/2020 7:22:45 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Get UC tick taus.vi	6/6/2020 7:22:44 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Compute UC Tau Tick (g, s) & (dg, ds).vi	6/6/2020 7:22:45 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Phasor (g, s).ctl	6/6/2020 7:22:41 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\SEPXP Update UC Lifetimes.vi	6/6/2020 7:22:45 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\XY Graph Update Plot.vi	6/6/2020 7:22:45 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\XY Graph Set Plot Metdata.vi	6/6/2020 7:22:45 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\User-defined Gate.vi	6/6/2020 7:22:41 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Show Animated Busy Icon with Message and Abort Button.vi	6/6/2020 7:22:45 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Get Control Refnum and Tab by Name.vi	6/6/2020 7:22:44 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Compute Pseudo UC Wrapper.vi	6/6/2020 7:22:45 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Get PhXP Parameters.vi	6/6/2020 7:22:41 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Compute Pseudo USC v2.vi	6/6/2020 7:22:45 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Phasor Calibration Data.ctl	6/6/2020 7:22:45 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Phasor UC_N[W] Parameters.ctl	6/6/2020 7:22:43 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Convert Decay & Gates Parameters.vi	6/6/2020 7:22:41 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Gate Definitions.ctl	6/6/2020 7:22:36 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Decay Definiton.ctl	6/6/2020 7:22:36 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Compute Calibration Phasor & jw.vi	6/6/2020 7:22:42 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Convert (tau, f) to (jw, z).vi	6/6/2020 7:22:42 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Compute Discrete Calibration Phasor & jw.vi	6/6/2020 7:22:42 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\z_N[Lambda_tau,T,t_0]_Analytical.vi	6/6/2020 7:22:38 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Phasor Rotation due to Offset.vi	6/6/2020 7:22:38 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Compute Square-Gated Discrete Calibration Phasor & jw.vi	6/6/2020 7:22:42 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\z_N[Lambda_tau,T,W,t_0]_Analytical.vi	6/6/2020 7:22:37 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\z_N[Lambda_0,T,W]_Analytical.vi	6/6/2020 7:22:37 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Compute Gated Pseudo-Phasor.vi	6/6/2020 7:22:40 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Check Gate Calculation Type.vi	6/6/2020 7:22:40 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Compute 1-Exp Gate Array v2.vi	6/6/2020 7:22:39 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Photon-Counting Saturation Parameters.ctl	6/6/2020 7:22:38 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Gate & Decay Parameters.ctl	6/6/2020 7:22:38 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Dirac Integrand for Gated Decay.vi	6/6/2020 7:22:38 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\User-defined Gate function.vi	6/6/2020 7:22:38 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\T-Periodic Square Gate.vi	6/6/2020 7:22:38 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\T-Periodic Triangle Gate.vi	6/6/2020 7:22:38 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\T-Periodic Sawtooth Gate.vi	6/6/2020 7:22:38 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\T-Periodic Finite Edge Square Gate.vi	6/6/2020 7:22:38 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\T-Periodic Finite Edge Tilted Top Square Gate.vi	6/6/2020 7:22:38 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\1D Quadrature Integrand for Gated Decay.vi	6/6/2020 7:22:38 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Error Code to Error Cluster.vi	6/6/2020 7:22:38 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\1D Quadrature (VI).vi	6/6/2020 7:22:38 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Lobatto Quadrature Core (VI).vi	6/6/2020 7:22:38 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Chop Integration Bins (VI).vi	6/6/2020 7:22:38 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Chop One Bin (VI).vi	6/6/2020 7:22:38 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Eval Function at Sampling Points (VI).vi	6/6/2020 7:22:38 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Lobatto Weights (4&7 order).vi	6/6/2020 7:22:38 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Compute Saturated Gate Image Array.vi	6/6/2020 7:22:38 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\f_p,L(y).vi	6/6/2020 7:22:38 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\z[Lambda_tau,T,W,t_0]_Analytical.vi	6/6/2020 7:22:38 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\z_N[Psi_tau,tau_0,T,W,t_0]_Analytical.vi	6/6/2020 7:22:37 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\O(tau,tau_0,t_0)_Analytical.vi	6/6/2020 7:22:37 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\zeta_f(tau)_Analytical.vi	6/6/2020 7:22:36 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Compute Calibrated Phasor Array.vi	6/6/2020 7:22:45 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Calibrate Pseudo-Phasor.vi	6/6/2020 7:22:42 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Add Ticks to PUC.vi	6/6/2020 7:22:44 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Compute tau_phi & tau_m from Phasor.vi	6/6/2020 7:22:43 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Compute tau_phi & tau_m from Phasor (Discrete, Gated).vi	6/6/2020 7:22:43 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\tau_phi & tau_m Zero Finder Parameters.ctl	6/6/2020 7:22:43 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Zero Finder tau (Discrete, Gated Phasor).vi	6/6/2020 7:22:43 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Find Unique Zero.vi	6/6/2020 7:22:43 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Compute tau_phi & tau_m from Phasor (Discrete, Ungated).vi	6/6/2020 7:22:43 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Compute tau_phi & tau_m from Phasor (Continuous, Gated).vi	6/6/2020 7:22:43 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Convert (g,s,f) to (tf, tm).vi	6/6/2020 7:22:41 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Get CPU String.vi	6/6/2020 7:22:43 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Variant to Formatted String.vi	6/6/2020 7:22:42 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Convert Cluster INI String.vi	6/6/2020 7:22:42 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\String Contains Quote(s).vi	6/6/2020 7:22:42 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Clean up Phasor Parameters String.vi	6/6/2020 7:22:43 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Hide Animated Busy Icon with Message and Abort Button.vi	6/6/2020 7:22:44 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Send PhXP Phasor Plot Info to Notebook.vi	6/6/2020 7:22:44 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Compute Sum of Gates Plot Wrapper.vi	6/6/2020 7:22:44 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Compute Sum of Gates Plot.vi	6/6/2020 7:22:44 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Get tau_i, tau_phi, tau_m at Cursor.vi	6/6/2020 7:22:43 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Compute Decay & Time Gates Wrapper.vi	6/6/2020 7:22:43 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Gate Analysis Results.ctl	6/6/2020 7:22:43 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Compute Decay & Time Gates.vi	6/6/2020 7:22:43 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Compute 1-Exp Gate Array.vi	6/6/2020 7:22:43 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\1-Exp Decay Parameters from Gated Decay.vi	6/6/2020 7:22:43 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Find Root of f_W,T,D(x) = 0.vi	6/6/2020 7:22:43 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Square Gated 1-Exp Parameters.ctl	6/6/2020 7:22:43 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Compute Pseudo-Phase Lifetime Plot Wrapper.vi	6/6/2020 7:22:43 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Compute Pseudo-Phase Lifetime Plot.vi	6/6/2020 7:22:43 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Update Identity Plot (P-Ph-tau Graph).vi	6/6/2020 7:22:43 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Show Animated Busy Icon.vi	6/6/2020 7:22:42 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Export Parameters to Clipboard Wrapper.vi	6/6/2020 7:22:42 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Hide Animated Busy Icon.vi	6/6/2020 7:22:42 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Compute alpha(beta) Plot Wrapper.vi	6/6/2020 7:22:42 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Compute alpha(beta) Plot.vi	6/6/2020 7:22:42 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Linear Ramp by Number (CDB).vi	6/6/2020 7:22:42 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Convert g & s Arrays to Phasor Array.vi	6/6/2020 7:22:41 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Find Intersections of Fitted Line with Universal Circle.vi	6/6/2020 7:22:41 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Convert Phasor Array to g & s Arrays.vi	6/6/2020 7:22:41 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Get Phasor Ratio.vi	6/6/2020 7:22:41 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Show Animated Busy Icon with Message.vi	6/6/2020 7:22:41 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Compute f(tau) & Zeros Wrapper.vi	6/6/2020 7:22:41 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Compute f(tau) & Zeros.vi	6/6/2020 7:22:41 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Compute Linear Coefficients.vi	6/6/2020 7:22:41 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Plot f(tau).vi	6/6/2020 7:22:41 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Convert Pseudo Phasor Parameters.vi	6/6/2020 7:22:41 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Data for Pseudo UC Intersections.ctl	6/6/2020 7:22:36 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\f(tau) [Pseudo UC Intersections].vi	6/6/2020 7:22:40 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Lifetime at UC Intersection (gated).vi	6/6/2020 7:22:36 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Lifetime at UC Intersection (discrete).vi	6/6/2020 7:22:36 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Lifetime at UC Intersection (standard).vi	6/6/2020 7:22:36 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Fit Plot to Circle.vi	6/6/2020 7:22:22 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Fit Points to Circle.vi	6/6/2020 7:22:22 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Fitted Circle Parameters.ctl	6/6/2020 7:22:22 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Error to String.vi	6/6/2020 7:22:19 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Search and Replace Multiple Patterns.vi	6/6/2020 7:22:19 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Is Runtime Application.vi	6/6/2020 7:22:19 PM
+Y:\UCLA Google Drive\Xavier's Retina MBP\LabVIEW\builds\Phasor Explorer\Phasor Explorer 0.2 Distro\Close & Abort VIs.vi	6/6/2020 7:22:19 PM
+
+6/6/2020 7:22:52 PM
